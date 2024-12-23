@@ -1,1 +1,4 @@
-This is to learn azure
+This is to learn azure.
+Also learb Devopps. 
+Git is version control system
+
