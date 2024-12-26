@@ -2,3 +2,4 @@ This is to learn azure.
 Also learb Devopps. 
 Git is version control system
 I like to do it well. 
+I want to complete Devops in one month. 
